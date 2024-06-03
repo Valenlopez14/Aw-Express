@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "nodemon servidor-process.mjs"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
